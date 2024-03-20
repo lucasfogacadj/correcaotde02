@@ -19,3 +19,4 @@ Console.WriteLine(x+y);
 //char -> '\0'
 //int, double, float e decimal -> 0
 //string -> null
+//adicionar comentário
